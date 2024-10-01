@@ -1,1 +1,1 @@
-the first project in bach-end
+the first project in back-end javascript
